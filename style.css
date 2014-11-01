@@ -1,0 +1,15 @@
+.media-box{
+  width: 300px;
+  margin-bottom: 2em;
+}
+
+.left{
+  width: 40px;
+  position:absolute;
+}
+
+.right{
+  width: 260px;
+  position:relative;
+  margin-left:auto;
+}
